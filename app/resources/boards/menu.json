@@ -2,7 +2,7 @@
   {
     "type": "TinyTapeOut",
     "boards": [
-      "tty2"
+      "tto2"
     ]
   },	
   {
