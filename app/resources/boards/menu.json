@@ -1,5 +1,11 @@
 [
   {
+    "type": "TinyTapeOut",
+    "boards": [
+      "tty2"
+    ]
+  },	
+  {
     "type": "HX1K",
     "boards": [
       "icezum",
